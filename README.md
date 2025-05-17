@@ -2,7 +2,7 @@
 
 Looking to dominate **Dead Rails** and similar Roblox games without grinding for hours? **Dead Rails Dominator** is your ultimate free, keyless script hub designed to give you the upper hand with powerful features like **Kill Aura**, **Farm Bonds**, and **Auto Win**. Whether you're farming rewards or wiping out enemies effortlessly, this tool will **take your gaming experience to the next level**.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/Ozair324/dead-rails-auto-farm-/blob/main/Dead%20Rails%20Dominator.png)
 
 ---
 
